@@ -1,0 +1,49 @@
+.logo {
+  height: 100px;
+  width: 100px;
+}
+.title {
+  background-color: red;
+  font-size: 32px;
+  color: white;
+}
+a {
+  font-size: 20px;
+  color: #551a8b;
+}
+#intro {
+  background-color: brown;
+  font-size: 30px;
+  color: white;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+b {
+  color: black;
+}
+#development {
+  background-color: brown;
+  color: white;
+  font-size: 25px;
+}
+h1 {
+  font-size: 40px;
+}
+.table {
+  width: 900px;
+  height: 800px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  border: 1px solid;
+}
+.container {
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
